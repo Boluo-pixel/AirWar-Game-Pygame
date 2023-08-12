@@ -2,7 +2,7 @@
 
 欢迎来到[飞机射击游戏]()！这是一个使用 [pygame](https://www.pygame.org/docs/) 库构建的简单的 2D 游戏。游戏中，玩家控制一架飞机，在避开敌方的攻击时击落敌方。
 
-![screenshot](./other/Screenshot 2023-08-12 145729.png)
+![screenshot](https://github.com/Boluo-pixel/AirWar-Game-Pygame/blob/main/other/Screenshot%202023-08-12%20145729.png)
 
 ## 开始
 
